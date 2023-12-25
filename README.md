@@ -16,7 +16,7 @@
 ---
 
 ### :feelsgood: About Me :
-I'm an full-stack developer and aspiring ML enthusiast creating my own version
+I'm an full-stack developer and aspiring ML/AI enthusiast creating my own version
 of the digital world one step at a time. All the coading projects are builtup from the
 scratch, from planning and some collaborating all the way to solving the real life problems
 with code. I am currently studying computer engineering in IOE,ERC. 
