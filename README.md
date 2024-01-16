@@ -38,6 +38,6 @@ with code. I am currently studying computer engineering in IOE,ERC.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pandeyprashant123-coder&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandeyprashant123-coder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
